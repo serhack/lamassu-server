@@ -30,3 +30,5 @@ options.mine.js
 raqia.json
 
 scratch/
+
+*.key
